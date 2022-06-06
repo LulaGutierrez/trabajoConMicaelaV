@@ -14,3 +14,10 @@ let arrayFrase = [
   ];
   let fraseNueva = arrayFrase.join(' ');
   console.log(fraseNueva);
+
+  let cancion = [
+    "I",
+    "wanna",
+    "be",
+    "yours"
+  ]
