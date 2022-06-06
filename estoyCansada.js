@@ -1,0 +1,1 @@
+console.log("por que hay que seguir estudiando")
