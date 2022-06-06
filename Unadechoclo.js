@@ -14,3 +14,20 @@ let arrayFrase = [
   ];
   let fraseNueva = arrayFrase.join(' ');
   console.log(fraseNueva);
+
+  let cancionComercial = [
+    'Marolio,',
+    'le',
+    'da',
+    'sabor',
+    'a',
+    'tu',
+    'vida,',
+    'Marolio',
+    'está',
+    'desde',
+    'el',
+    'comienzo',
+    'del',
+    'día'
+  ]
