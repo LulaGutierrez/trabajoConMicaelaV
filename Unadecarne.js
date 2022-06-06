@@ -1,3 +1,3 @@
 let alumnos = ["Juan", "Pepe", "Jorge", "Francisco"]
-let indiceJuan = alumnos.indexOf("Juan");
-let indiceFrancisco = alumnos.indexOf("Francisco");
+let indicePepe = alumnos.indexOf("Pepe");
+let indiceJorge = alumnos.indexOf("Jorge");
