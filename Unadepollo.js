@@ -1,5 +1,6 @@
-let nombre;
-let apellido;
-let edad;
-let telefono;
-let sabeProgramar;
+let dato = true;
+if (dato = true){
+    console.log('es true');
+}else{
+    console.log('es false');
+}
