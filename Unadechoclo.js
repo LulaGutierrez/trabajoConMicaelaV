@@ -31,3 +31,9 @@ let arrayFrase = [
     'del',
     'día'
   ]
+  let cancion = [
+    "I",
+    "wanna",
+    "be",
+    "yours"
+  ]
